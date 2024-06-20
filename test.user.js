@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Updatable Userscript
+// @name         UpdateTest
 // @namespace    
 // @version      1.0.0
 // @description  updatable userscript sample.
