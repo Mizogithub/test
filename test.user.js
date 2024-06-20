@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UpdateTest
 // @namespace    https://github.com/Mizogithub
-// @version      1.0.1
+// @version      1.0.2
 // @description  updatable userscript sample.
 // @author       Update
 // @match        https://example.com/
