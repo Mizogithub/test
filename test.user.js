@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         UpdateTest
+// @name         UpdateTest1
 // @namespace    https://github.com/Mizogithub
 // @version      1.0.1
 // @description  updatable userscript sample.
