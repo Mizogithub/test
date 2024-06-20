@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UpdateTest
 // @namespace    https://github.com/Mizogithub
-// @version      1.0.0
+// @version      1.0.1
 // @description  updatable userscript sample.
 // @author       Update
 // @match        https://example.com/
@@ -11,5 +11,5 @@
 // ==/UserScript==
 
 (() => {
-  console.log('v1.0.0');
+  console.log('v1.0.1');
 })();
